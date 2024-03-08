@@ -1,5 +1,3 @@
-
-
 # E-pood Projekt 🏠
 
 Tere tulemast meie "E-pood" projekti repositooriumisse. Oleme tulnud kokku, et luua ainulaadne ja põnev projekt. Allpool leiate olulise teabe meie projekti ja selle taga oleva tiimi kohta.
@@ -50,9 +48,9 @@ Kasutasime selle projekti loomiseks järgmisi tööriistu ja tehnoloogiaid:
 ## TIIMI TAGASISIDE
 
 Kristjan Lessel:
- -  
- - 
- - 
+ - Olen rahul meie tiimi dünaamikaga ja suhtlusega Slackis.
+ - Figma tuunimine oli suurepärane mõte, see aitab meil visuaalselt paremat ettekujutust saada.
+ - Hindamisstandardite juhendiga tutvumine oli oluline samm, et mõista meie projekti nõudeid ja ootusi.
 
 Katrin Ansper:
   -  
