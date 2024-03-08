@@ -5,16 +5,16 @@ Tere tulemast meie "E-pood" projekti repositooriumisse. Oleme tulnud kokku, et l
 ## Kiired lingid 🔗
 
 - **Figma kujundus**: [Figma kujundus](https://www.figma.com/file/bBjeiubDM8NfvirHcw6OeS/Untitled?type=design&node-id=0-1&mode=design&t=UXlzDOHEEDHIaFik-0)
-- - **Instagram**: ([Sisestage otseprojekti link siia](https://www.instagram.com/voinikooee/))
-- - **Facebook**: ([Sisestage otseprojekti link siia](https://www.facebook.com/profile.php?id=61555240629816))
-- - **Youtube**: ([Sisestage otseprojekti link siia](https://www.youtube.com/channel/UCvaNdzi2b2hQYui_S3smaqw))
-- **Koodirepositoorium**: [GitHubi repositoorium](https://github.com/Kris-tjan/Voinikoo.ee-E-pood/edit/main/README.md)
+- - **Instagram**: ([Sisestage otseprojekti link siia](https://www.instagram.com/voinikooee/))📸
+- - **Facebook**: ([Sisestage otseprojekti link siia](https://www.facebook.com/profile.php?id=61555240629816))📘
+- - **Youtube**: ([Sisestage otseprojekti link siia](https://www.youtube.com/channel/UCvaNdzi2b2hQYui_S3smaqw))📹
+- **Koodirepositoorium**: [GitHubi repositoorium](https://github.com/Kris-tjan/Voinikoo.ee-E-pood/edit/main/README.md)🖥️
 - **NO Live😭
 
 ## Tiimiliikmed 👥
 
-- Kristjan Lessel (TAK-21) 🧑‍💻
-- Katrin Ansper 🧑‍💻
+- Kristjan Lessel (TAK-21) 😊🛒🎨
+- Katrin Ansper 👍👏🔧
 - Axel Pärnoja 🧑‍💻
 
 ## Projekti töövoog 🚀
@@ -63,5 +63,5 @@ Axel Pärnoja
  - 
 
 
-Täname, et uurisite meie projekti. Kui teil on küsimusi või tagasisidet, siis võtke julgelt ühendust meie tiimiliikmetega. 👍🎥✨
+Täname, et uurisite meie projekti. Kui teil on küsimusi või tagasisidet, siis võtke julgelt ühendust meie tiimiliikmetega. 🚀🛍️
 
